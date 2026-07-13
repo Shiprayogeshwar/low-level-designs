@@ -1,4 +1,6 @@
 class CharacterStyle:
+    """ This is the flyweight class, which reduces the memory usage
+    """
     def __init__(self, font, size, colour, bold=False, italic=False):
         self.font = font
         self.size = size

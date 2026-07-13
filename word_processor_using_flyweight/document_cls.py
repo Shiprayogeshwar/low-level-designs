@@ -1,4 +1,6 @@
 class Document:
+    """ Document is a collection of character objects
+    """
     def __init__(self):
         self.characters = []
 
