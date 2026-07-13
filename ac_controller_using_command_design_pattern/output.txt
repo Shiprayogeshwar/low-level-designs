@@ -1,0 +1,7 @@
+Power ON
+Mode: FAN
+Temperature: 25
+Temperature: 24
+Temperature: 25
+Temperature: 24
+Power OFF
