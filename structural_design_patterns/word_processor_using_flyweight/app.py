@@ -1,6 +1,6 @@
-from character_style_factory import CharacterStyleFactory
-from document_cls import Document
-from character_cls import Character
+from structural_design_patterns.word_processor_using_flyweight.character_style_factory import CharacterStyleFactory
+from structural_design_patterns.word_processor_using_flyweight.document_cls import Document
+from structural_design_patterns.word_processor_using_flyweight.character_cls import Character
 
 def app():
     factory = CharacterStyleFactory()

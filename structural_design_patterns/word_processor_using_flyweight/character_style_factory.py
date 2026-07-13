@@ -1,4 +1,4 @@
-from character_style import CharacterStyle
+from structural_design_patterns.word_processor_using_flyweight.character_style import CharacterStyle
 
 class CharacterStyleFactory:
     """ CharacterStyleFactory stores map of style combination to style object
