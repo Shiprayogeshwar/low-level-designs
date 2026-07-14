@@ -1,0 +1,12 @@
+Messi bids 100
+Highest bid received is 100 from Messi
+Neymar notified:Messi placed bid 100
+Ronaldo notified:Messi placed bid 100
+Neymar bids 200
+Highest bid received is 200 from Neymar
+Messi notified:Neymar placed bid 200
+Ronaldo notified:Neymar placed bid 200
+Ronaldo bids 1000
+Highest bid received is 1000 from Ronaldo
+Messi notified:Ronaldo placed bid 1000
+Neymar notified:Ronaldo placed bid 1000
