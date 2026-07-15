@@ -1,0 +1,9 @@
+Student details
+Student ID: 1
+Student Name: Shipra
+Student Marks: 49
+After updating marks
+Student details
+Student ID: 1
+Student Name: Shipra
+Student Marks: 95
