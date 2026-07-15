@@ -1,0 +1,4 @@
+All services total: 3300
+Tax: 481.0
+Discount: 345.0
+Total: 3300 + 481.0 - 345.0
