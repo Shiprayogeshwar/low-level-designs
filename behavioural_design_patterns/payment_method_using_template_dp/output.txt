@@ -1,0 +1,11 @@
+Payment validated
+Authenticating using OTP
+Charging ₹1000 to Credit Card
+Receipt generated for ₹1000
+Payment notification sent
+
+Payment validated
+Authenticating using UPI PIN
+Debiting ₹500 through UPI
+Receipt generated for ₹500
+Payment notification sent
